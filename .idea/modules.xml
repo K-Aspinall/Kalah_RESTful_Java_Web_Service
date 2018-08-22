@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall_main.iml" group="Kalah-RESTful-Kristian_Aspinall" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah-RESTful-Kristian_Aspinall_test.iml" group="Kalah-RESTful-Kristian_Aspinall" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah_main.iml" group="Kalah" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalah_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalah_test.iml" group="Kalah" />
     </modules>
   </component>
 </project>
